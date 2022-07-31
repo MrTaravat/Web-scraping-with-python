@@ -1,0 +1,126 @@
+1659232713070	geckodriver	INFO	Listening on 127.0.0.1:57895
+1659232713078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOVwpGx"
+1659232713888	Marionette	INFO	Marionette enabled
+1659232713895	Marionette	INFO	Listening on port 38179
+WebDriver BiDi listening on ws://localhost:55673
+Read port: 38179
+1659232714062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOVwpGx/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 155: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55673/devtools/browser/82342439-ec4f-4dab-a8b1-7f0f2cf307f8
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659232733846	Marionette	INFO	Stopped listening on port 38179
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659232739508	geckodriver	INFO	Listening on 127.0.0.1:49399
+1659232739515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT5Pnpi"
+1659232740363	Marionette	INFO	Marionette enabled
+1659232740369	Marionette	INFO	Listening on port 43701
+WebDriver BiDi listening on ws://localhost:39751
+Read port: 43701
+1659232740530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT5Pnpi/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 155: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39751/devtools/browser/594bcdcd-6ba2-48c0-8418-31aa70a620c9
+1659232793759	geckodriver	INFO	Listening on 127.0.0.1:56863
+1659232793767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBOTSL3"
+1659232794633	Marionette	INFO	Marionette enabled
+1659232794639	Marionette	INFO	Listening on port 37597
+WebDriver BiDi listening on ws://localhost:58879
+Read port: 37597
+1659232794790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBOTSL3/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 155: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58879/devtools/browser/3a6391c9-7d47-4fcd-927f-abeb1738a97e
+1659232816902	geckodriver	INFO	Listening on 127.0.0.1:50395
+1659232816909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileY1nzWa"
+1659232817700	Marionette	INFO	Marionette enabled
+1659232817707	Marionette	INFO	Listening on port 38675
+Read port: 38675
+WebDriver BiDi listening on ws://localhost:37015
+1659232817877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY1nzWa/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 155: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37015/devtools/browser/7c8546af-6535-424f-a96e-a4eb9f59b646
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659232823578	Marionette	INFO	Stopped listening on port 38675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659232850518	geckodriver	INFO	Listening on 127.0.0.1:52591
+1659232850525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekuR8ue"
+1659232851307	Marionette	INFO	Marionette enabled
+1659232851313	Marionette	INFO	Listening on port 33915
+WebDriver BiDi listening on ws://localhost:55249
+Read port: 33915
+1659232851464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekuR8ue/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 155: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55249/devtools/browser/e8b52fcd-f018-4373-b2ef-86a77dc362b9
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659232881763	Marionette	INFO	Stopped listening on port 33915
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659232894114	geckodriver	INFO	Listening on 127.0.0.1:56831
+1659232894627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuqmWFo"
+1659232895484	Marionette	INFO	Marionette enabled
+1659232895490	Marionette	INFO	Listening on port 42083
+WebDriver BiDi listening on ws://localhost:33671
+Read port: 42083
+1659232895657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuqmWFo/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 155: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33671/devtools/browser/89138860-b59e-4b62-9d68-2796778cbaa5
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659233023835	Marionette	INFO	Stopped listening on port 42083
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659233034402	geckodriver	INFO	Listening on 127.0.0.1:54691
+1659233034411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEbbetf"
+1659233035245	Marionette	INFO	Marionette enabled
+1659233035265	Marionette	INFO	Listening on port 42623
+WebDriver BiDi listening on ws://localhost:47981
+Read port: 42623
+1659233035446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEbbetf/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 155: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47981/devtools/browser/b2e93607-d980-4a1d-86bd-74fae72206f5
+1659233039375	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=62603302940123327, line 3: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=62603302940123327, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=62603302940123327 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript error: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=62603302940123327 line 1 > injectedScript, line 1: ReferenceError: SellA is not defined
+1659233083352	geckodriver	INFO	Listening on 127.0.0.1:52653
+1659233083359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL3YfG3"
+1659233084207	Marionette	INFO	Marionette enabled
+1659233084214	Marionette	INFO	Listening on port 33813
+WebDriver BiDi listening on ws://localhost:48163
+Read port: 33813
+1659233084372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL3YfG3/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 155: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48163/devtools/browser/d4a54592-ec1f-462c-85f4-a202765ca40f
+1659233087830	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=62603302940123327, line 3: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=62603302940123327, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=62603302940123327 line 1 > injectedScript, line 1: unreachable code after return statement
